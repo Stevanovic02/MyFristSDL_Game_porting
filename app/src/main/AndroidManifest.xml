@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="rocks.georgik.sdlapp"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="Rambo Platformer"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+
+        <!-- SDL Activity -->
+        <activity
+            android:name=".SDLActivity"
+            android:label="Rambo Platformer"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+        </activity>
+
+        <!-- Main Activity -->
+        <activity
+            android:name="rocks.georgik.sdlapp.MainActivity"
+            android:label="Rambo Platformer"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>

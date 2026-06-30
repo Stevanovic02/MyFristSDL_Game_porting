@@ -1,0 +1,1669 @@
+{
+  "stringTable": {
+    "0": "C:/Users/DELL/Desktop/test2/app/.cxx/cmake/all_in_oneDebug/x86",
+    "1": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmain_lib_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmain_lib_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -std=c++1z",
+    "3": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGL_GLEXT_PROTOTYPES -DSDL2_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "4": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGL_GLEXT_PROTOTYPES -DLOAD_JPG -DLOAD_PNG -DLOAD_XPM -DSDL2_image_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_image/include -IC:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include -IC:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "5": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGL_GLEXT_PROTOTYPES -DLOAD_JPG -DLOAD_PNG -DLOAD_XPM -DSDL2_png_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_image/include -IC:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include -IC:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include -IC:/Users/DELL/Desktop/test2/SDL2_png/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "6": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGL_GLEXT_PROTOTYPES -DLOAD_JPG -DLOAD_PNG -DLOAD_XPM -DSDL2_jpeg_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_image/include -IC:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include -IC:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include -IC:/Users/DELL/Desktop/test2/SDL2_jpeg/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "7": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGL_GLEXT_PROTOTYPES -DSDL2_gfx_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_gfx/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "8": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGL_GLEXT_PROTOTYPES -DSDL2_mixer_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_mixer/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "9": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DGL_GLEXT_PROTOTYPES -DSDL2_ttf_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_ttf/../freetype/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "10": "--target=i686-none-linux-android19 --gcc-toolchain=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DFT2_BUILD_LIBRARY -DFT_CONFIG_CONFIG_H=<ftconfig.h> -DFT_CONFIG_MODULES_H=<ftmodule.h> -DGL_GLEXT_PROTOTYPES -Dfreetype_EXPORTS -IC:/Users/DELL/Desktop/test2/main/../SDL2/include -IC:/Users/DELL/Desktop/test2/main/../SDL2/src -IC:/Users/DELL/Desktop/test2/main/../SDL2_image/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include -IC:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_ttf/include -IC:/Users/DELL/Desktop/test2/SDL2_ttf/../freetype/include -IC:/Users/DELL/Desktop/test2/freetype/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\DELL\\Desktop\\test2\\freetype\\CMakeLists.txt",
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_gfx\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_ttf\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\main\\CMakeLists.txt",
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "SDL2-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "SDL2",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\opengles\\SDL_render_gles.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\opengles2\\SDL_shaders_gles2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\opengles2\\SDL_render_gles2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\opengl\\SDL_shaders_gl.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\opengl\\SDL_render_gl.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\SDL_render.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\software\\SDL_blendline.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\software\\SDL_drawline.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\software\\SDL_blendfillrect.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\software\\SDL_blendpoint.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\software\\SDL_rotate.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\software\\SDL_drawpoint.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\software\\SDL_render_sw.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\SDL_yuv_sw.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\SDL_d3dmath.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\psp\\SDL_render_psp.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\render\\SDL_yuv_mmx.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\SDL_mixer.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\SDL_audiocvt.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\SDL_wave.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\dummy\\SDL_dummyaudio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\SDL_audiodev.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\android\\SDL_androidaudio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\paudio\\SDL_paudio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\SDL_audiotypecvt.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\audio\\SDL_audio.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\core\\android\\SDL_android.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\cpuinfo\\SDL_cpuinfo.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\file\\SDL_rwops.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\timer\\unix\\SDL_systimer.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\timer\\SDL_timer.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_assert.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_crc32.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_harness.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_md5.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_fuzzer.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_random.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_log.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_imagePrimitives.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_imagePrimitivesBlend.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_compare.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_imageFace.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_imageBlit.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_common.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_font.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\test\\SDL_test_imageBlitBlend.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_dropevents.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_mouse.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_clipboardevents.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_windowevents.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_keyboard.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_gesture.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_quit.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_events.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\events\\SDL_touch.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\thread\\SDL_thread.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\thread\\pthread\\SDL_syscond.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\thread\\pthread\\SDL_systhread.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\thread\\pthread\\SDL_sysmutex.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\thread\\pthread\\SDL_syssem.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\thread\\pthread\\SDL_systls.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\haptic\\SDL_haptic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\haptic\\dummy\\SDL_syshaptic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_video.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit_0.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_bmp.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit_slow.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_egl.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit_1.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_RLEaccel.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_stretch.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit_A.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_pixels.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit_N.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_fillrect.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidevents.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidtouch.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidwindow.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidmessagebox.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidclipboard.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidkeyboard.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidvideo.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidmouse.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\android\\SDL_androidgl.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit_copy.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_clipboard.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_blit_auto.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_rect.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_shape.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\video\\SDL_surface.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\loadso\\dlopen\\SDL_sysloadso.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\dynapi\\SDL_dynapi.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\SDL_error.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\SDL_assert.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\stdlib\\SDL_stdlib.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\stdlib\\SDL_malloc.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\stdlib\\SDL_string.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\stdlib\\SDL_getenv.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\stdlib\\SDL_iconv.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\stdlib\\SDL_qsort.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\SDL.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\power\\android\\SDL_syspower.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\power\\SDL_power.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\atomic\\SDL_spinlock.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\atomic\\SDL_atomic.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\joystick\\SDL_gamecontroller.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\joystick\\SDL_joystick.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\joystick\\android\\SDL_sysjoystick.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\filesystem\\android\\SDL_sysfilesystem.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\SDL_log.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\SDL_hints.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_sin.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_cos.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_copysign.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_fabs.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\k_rem_pio2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\k_sin.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_atan.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\k_cos.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_scalbn.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\e_pow.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\e_atan2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_tan.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\e_rem_pio2.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\e_log.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\e_sqrt.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\s_floor.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\src\\libm\\k_tan.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so",
+      "runtimeFiles": []
+    },
+    "SDL2_image-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_image",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "SDL2_image",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_gif.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_png.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_bmp.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_xxx.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_pcx.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_xv.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_jpg.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_xpm.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_webp.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_tga.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_tif.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\showimage.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_xcf.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_pnm.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\src\\IMG_lbm.c",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_image.so",
+      "runtimeFiles": []
+    },
+    "SDL2_png-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_png",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "SDL2_png",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngrio.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngwtran.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngwutil.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngread.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngtrans.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngpread.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\png.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngwio.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngrutil.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngerror.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngset.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngmem.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngwrite.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngrtran.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\src\\pngget.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_png.so",
+      "runtimeFiles": []
+    },
+    "SDL2_ttf-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_ttf",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "SDL2_ttf",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_ttf\\src\\glfont.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_ttf\\src\\SDL_ttf.c",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_ttf.so",
+      "runtimeFiles": []
+    },
+    "main-lib-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" main-lib",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "main-lib",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\main\\src\\SDL_android_main.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\main\\src\\main.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libmain-lib.so",
+      "runtimeFiles": []
+    },
+    "SDL2_gfx-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_gfx",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "SDL2_gfx",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_gfx\\src\\SDL2_framerate.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_gfx\\src\\SDL2_gfxPrimitives.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_gfx\\src\\SDL2_rotozoom.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_gfx\\src\\SDL2_imageFilter.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_gfx.so",
+      "runtimeFiles": []
+    },
+    "SDL2_mixer-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_mixer",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "SDL2_mixer",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\music_mad.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\dynamic_flac.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\load_aiff.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\load_voc.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\dynamic_ogg.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\load_mp3.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\mixer.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\playmus.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\music_ogg.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\music_cmd.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\music_mod.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\load_flac.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\dynamic_fluidsynth.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\fluidsynth.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\effect_stereoreverse.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\music.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\dynamic_mod.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\effects_internal.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\dynamic_modplug.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\dynamic_mp3.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\load_ogg.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\wavestream.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\effect_position.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\music_modplug.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\src\\music_flac.c",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_mixer.so",
+      "runtimeFiles": []
+    },
+    "freetype-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" freetype",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "freetype",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\sfobjs.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\sfntpic.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\sfdriver.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\ttmtx.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\ttload.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\ttbdf.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\ttpost.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\ttcmap.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\ttkern.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\sfnt\\ttsbit.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\md5.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftglyph.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftotval.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftinit.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftbdf.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftgasp.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftsystem.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftstroke.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftapi.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftlcdfil.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftdebug.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftcid.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftfstype.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftxf86.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftbitmap.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftpfr.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftwinfnt.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftgxval.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftpatent.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftbbox.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftbase.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftsynth.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\fttype1.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\base\\ftmm.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\smooth\\ftsmooth.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\smooth\\ftgrays.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\smooth\\ftspic.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\raster\\ftraster.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\raster\\rastpic.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\raster\\ftrend1.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\bzip2\\ftbzip2.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttobjs.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttgload.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttpic.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttgxvar.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttsubpix.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttinterp.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttdriver.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\freetype\\src\\truetype\\ttpload.c",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libfreetype.so",
+      "runtimeFiles": []
+    },
+    "SDL2_jpeg-Debug-x86": {
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_jpeg",
+      "buildType": "debug",
+      "toolchain": "806198912",
+      "abi": "x86",
+      "artifactName": "SDL2_jpeg",
+      "files": [
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\rdswitch.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jquant1.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\rdbmp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcmainct.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcdctmgr.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcsample.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\wrgif.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdmaster.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdatadst.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jaricom.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jutils.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\rdgif.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdcolor.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\rdppm.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jchuff.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\wrppm.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jquant2.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcmarker.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\rdtarga.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\rdrle.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdtrans.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcmaster.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jfdctfst.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdapimin.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jccoefct.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jidctfst.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\wrbmp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jddctmgr.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdmerge.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdarith.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jidctint.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdatasrc.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcomapi.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\wrrle.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\rdcolmap.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jmemmgr.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcinit.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\wrtarga.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jidctflt.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jmem-android.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdapistd.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jerror.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcparam.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcprepct.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdsample.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdhuff.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\cdjpeg.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdpostct.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdmarker.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jfdctint.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcarith.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdcoefct.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcapimin.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\transupp.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jfdctflt.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jccolor.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdmainct.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jdinput.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\wrjpgcom.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jctrans.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\src\\jcapistd.c",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_jpeg.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "806198912": {
+      "cCompilerExecutable": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

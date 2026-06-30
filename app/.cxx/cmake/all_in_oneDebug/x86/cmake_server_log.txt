@@ -1,0 +1,742 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "C:/Users/DELL/Desktop/test2/main",
+  "buildDirectory": "C:/Users/DELL/Desktop/test2/app/.cxx/cmake/all_in_oneDebug/x86",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_FIND_ROOT_PATH\u003dC:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\prefab\\x86\\prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "-DANDROID_ABI\u003dx86",
+    "-DANDROID_NDK\u003dC:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+    "-DANDROID_PLATFORM\u003dandroid-19",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d19"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: Check for working C compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":33,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+CMAKE SERVER: Check for working C compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":65,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":96,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":126,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":155,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: Check for working CXX compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":184,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+CMAKE SERVER: Check for working CXX compiler: C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":211,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":237,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":262,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":287,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":311,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":334,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":356,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":377,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":398,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":418,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":438,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":456,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":474,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":911,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":922,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":933,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":944,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":955,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":966,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":977,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":988,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"dirty","type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_gfx/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_mixer/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_image/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_png/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/freetype/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_jpeg/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":111,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":222,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":333,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":444,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":555,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":666,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":777,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":888,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_image/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_image/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_png/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_png/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_jpeg/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_jpeg/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_gfx/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_gfx/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_mixer/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_mixer/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/freetype/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"","name":"fileChange","path":"C:/Users/DELL/Desktop/test2/freetype/CMakeLists.txt","properties":["change"],"type":"signal"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","../../../AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake","../../../AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake","../../../AppData/Local/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake","../SDL2/CMakeLists.txt","../SDL2_image/CMakeLists.txt","../SDL2_png/CMakeLists.txt","../SDL2_jpeg/CMakeLists.txt","../SDL2_gfx/CMakeLists.txt","../SDL2_mixer/CMakeLists.txt","../SDL2_ttf/CMakeLists.txt","../freetype/CMakeLists.txt"]},{"isCMake":false,"isTemporary":true,"sources":["../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/3.10.2/CMakeSystem.cmake","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/feature_tests.c","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/feature_tests.c","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/feature_tests.c","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/feature_tests.cxx","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/feature_tests.cxx","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/feature_tests.cxx","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/feature_tests.cxx","../app/.cxx/cmake/all_in_oneDebug/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake"]}],"cmakeRootDirectory":"C:/Users/DELL/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"C:/Users/DELL/Desktop/test2/main","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"C:/Users/DELL/Desktop/test2/app/.cxx/cmake/all_in_oneDebug/x86","name":"Project","sourceDirectory":"C:/Users/DELL/Desktop/test2/main","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_jpeg.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_jpeg_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_jpeg/include"}],"isGenerated":false,"language":"C","sources":["src/rdswitch.c","src/jquant1.c","src/rdbmp.c","src/jcmainct.c","src/jcdctmgr.c","src/jcsample.c","src/wrgif.c","src/jdmaster.c","src/jdatadst.c","src/jaricom.c","src/jutils.c","src/rdgif.c","src/jdcolor.c","src/rdppm.c","src/jchuff.c","src/wrppm.c","src/jquant2.c","src/jcmarker.c","src/rdtarga.c","src/rdrle.c","src/jdtrans.c","src/jcmaster.c","src/jfdctfst.c","src/jdapimin.c","src/jccoefct.c","src/jidctfst.c","src/wrbmp.c","src/jddctmgr.c","src/jdmerge.c","src/jdarith.c","src/jidctint.c","src/jdatasrc.c","src/jcomapi.c","src/wrrle.c","src/rdcolmap.c","src/jmemmgr.c","src/jcinit.c","src/wrtarga.c","src/jidctflt.c","src/jmem-android.c","src/jdapistd.c","src/jerror.c","src/jcparam.c","src/jcprepct.c","src/jdsample.c","src/jdhuff.c","src/cdjpeg.c","src/jdpostct.c","src/jdmarker.c","src/jfdctint.c","src/jcarith.c","src/jdcoefct.c","src/jcapimin.c","src/transupp.c","src/jfdctflt.c","src/jccolor.c","src/jdmainct.c","src/jdinput.c","src/wrjpgcom.c","src/jctrans.c","src/jcapistd.c"]}],"fullName":"libSDL2_jpeg.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_jpeg","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_png.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_png_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_png/include"}],"isGenerated":false,"language":"C","sources":["src/pngrio.c","src/pngwtran.c","src/pngwutil.c","src/pngread.c","src/pngtrans.c","src/pngpread.c","src/png.c","src/pngwio.c","src/pngrutil.c","src/pngerror.c","src/pngset.c","src/pngmem.c","src/pngwrite.c","src/pngrtran.c","src/pngget.c"]}],"fullName":"libSDL2_png.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_png","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_gfx.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_gfx","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_gfx_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_gfx/include"}],"isGenerated":false,"language":"C","sources":["src/SDL2_framerate.c","src/SDL2_gfxPrimitives.c","src/SDL2_rotozoom.c","src/SDL2_imageFilter.c"]}],"fullName":"libSDL2_gfx.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_gfx","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_gfx","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_ttf.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_ttf","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_ttf_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/../freetype/include"}],"isGenerated":false,"language":"C","sources":["src/glfont.c","src/SDL_ttf.c"]}],"fullName":"libSDL2_ttf.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libfreetype.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -llog -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_ttf","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_ttf","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libfreetype.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/freetype","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["FT2_BUILD_LIBRARY","FT_CONFIG_CONFIG_H=<ftconfig.h>","FT_CONFIG_MODULES_H=<ftmodule.h>","GL_GLEXT_PROTOTYPES","freetype_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/../freetype/include"},{"path":"C:/Users/DELL/Desktop/test2/freetype/include"}],"isGenerated":false,"language":"C","sources":["src/sfnt/sfobjs.c","src/sfnt/sfntpic.c","src/sfnt/sfdriver.c","src/sfnt/ttmtx.c","src/sfnt/ttload.c","src/sfnt/ttbdf.c","src/sfnt/ttpost.c","src/sfnt/ttcmap.c","src/sfnt/ttkern.c","src/sfnt/ttsbit.c","src/base/md5.c","src/base/ftglyph.c","src/base/ftotval.c","src/base/ftinit.c","src/base/ftbdf.c","src/base/ftgasp.c","src/base/ftsystem.c","src/base/ftstroke.c","src/base/ftapi.c","src/base/ftlcdfil.c","src/base/ftdebug.c","src/base/ftcid.c","src/base/ftfstype.c","src/base/ftxf86.c","src/base/ftbitmap.c","src/base/ftpfr.c","src/base/ftwinfnt.c","src/base/ftgxval.c","src/base/ftpatent.c","src/base/ftbbox.c","src/base/ftbase.c","src/base/ftsynth.c","src/base/fttype1.c","src/base/ftmm.c","src/smooth/ftsmooth.c","src/smooth/ftgrays.c","src/smooth/ftspic.c","src/raster/ftraster.c","src/raster/rastpic.c","src/raster/ftrend1.c","src/bzip2/ftbzip2.c","src/truetype/ttobjs.c","src/truetype/ttgload.c","src/truetype/ttpic.c","src/truetype/ttgxvar.c","src/truetype/ttsubpix.c","src/truetype/ttinterp.c","src/truetype/ttdriver.c","src/truetype/ttpload.c"]}],"fullName":"libfreetype.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"freetype","sourceDirectory":"C:/Users/DELL/Desktop/test2/freetype","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_mixer.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_mixer","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_mixer_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_mixer/include"}],"isGenerated":false,"language":"C","sources":["src/music_mad.c","src/dynamic_flac.c","src/load_aiff.c","src/load_voc.c","src/dynamic_ogg.c","src/load_mp3.c","src/mixer.c","src/playmus.c","src/music_ogg.c","src/music_cmd.c","src/music_mod.c","src/load_flac.c","src/dynamic_fluidsynth.c","src/fluidsynth.c","src/effect_stereoreverse.c","src/music.c","src/dynamic_mod.c","src/effects_internal.c","src/dynamic_modplug.c","src/dynamic_mp3.c","src/load_ogg.c","src/wavestream.c","src/effect_position.c","src/music_modplug.c","src/music_flac.c"]}],"fullName":"libSDL2_mixer.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_mixer","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_mixer","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_image.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_image","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_image_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"}],"isGenerated":false,"language":"C","sources":["src/IMG.c","src/IMG_gif.c","src/IMG_png.c","src/IMG_bmp.c","src/IMG_xxx.c","src/IMG_pcx.c","src/IMG_xv.c","src/IMG_jpg.c","src/IMG_xpm.c","src/IMG_webp.c","src/IMG_tga.c","src/IMG_tif.c","src/showimage.c","src/IMG_xcf.c","src/IMG_pnm.c","src/IMG_lbm.c"]}],"fullName":"libSDL2_image.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_png.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_jpeg.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -llog -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_image","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_image","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2/include"}],"isGenerated":false,"language":"C","sources":["src/render/opengles/SDL_render_gles.c","src/render/opengles2/SDL_shaders_gles2.c","src/render/opengles2/SDL_render_gles2.c","src/render/opengl/SDL_shaders_gl.c","src/render/opengl/SDL_render_gl.c","src/render/SDL_render.c","src/render/software/SDL_blendline.c","src/render/software/SDL_drawline.c","src/render/software/SDL_blendfillrect.c","src/render/software/SDL_blendpoint.c","src/render/software/SDL_rotate.c","src/render/software/SDL_drawpoint.c","src/render/software/SDL_render_sw.c","src/render/SDL_yuv_sw.c","src/render/SDL_d3dmath.c","src/render/psp/SDL_render_psp.c","src/render/SDL_yuv_mmx.c","src/audio/SDL_mixer.c","src/audio/SDL_audiocvt.c","src/audio/SDL_wave.c","src/audio/dummy/SDL_dummyaudio.c","src/audio/SDL_audiodev.c","src/audio/android/SDL_androidaudio.c","src/audio/paudio/SDL_paudio.c","src/audio/SDL_audiotypecvt.c","src/audio/SDL_audio.c","src/core/android/SDL_android.c","src/cpuinfo/SDL_cpuinfo.c","src/file/SDL_rwops.c","src/timer/unix/SDL_systimer.c","src/timer/SDL_timer.c","src/test/SDL_test_assert.c","src/test/SDL_test_crc32.c","src/test/SDL_test_harness.c","src/test/SDL_test_md5.c","src/test/SDL_test_fuzzer.c","src/test/SDL_test_random.c","src/test/SDL_test_log.c","src/test/SDL_test_imagePrimitives.c","src/test/SDL_test_imagePrimitivesBlend.c","src/test/SDL_test_compare.c","src/test/SDL_test_imageFace.c","src/test/SDL_test_imageBlit.c","src/test/SDL_test_common.c","src/test/SDL_test_font.c","src/test/SDL_test_imageBlitBlend.c","src/events/SDL_dropevents.c","src/events/SDL_mouse.c","src/events/SDL_clipboardevents.c","src/events/SDL_windowevents.c","src/events/SDL_keyboard.c","src/events/SDL_gesture.c","src/events/SDL_quit.c","src/events/SDL_events.c","src/events/SDL_touch.c","src/thread/SDL_thread.c","src/thread/pthread/SDL_syscond.c","src/thread/pthread/SDL_systhread.c","src/thread/pthread/SDL_sysmutex.c","src/thread/pthread/SDL_syssem.c","src/thread/pthread/SDL_systls.c","src/haptic/SDL_haptic.c","src/haptic/dummy/SDL_syshaptic.c","src/video/SDL_video.c","src/video/SDL_blit_0.c","src/video/SDL_bmp.c","src/video/SDL_blit_slow.c","src/video/SDL_egl.c","src/video/SDL_blit_1.c","src/video/SDL_blit.c","src/video/SDL_RLEaccel.c","src/video/SDL_stretch.c","src/video/SDL_blit_A.c","src/video/SDL_pixels.c","src/video/SDL_blit_N.c","src/video/SDL_fillrect.c","src/video/android/SDL_androidevents.c","src/video/android/SDL_androidtouch.c","src/video/android/SDL_androidwindow.c","src/video/android/SDL_androidmessagebox.c","src/video/android/SDL_androidclipboard.c","src/video/android/SDL_androidkeyboard.c","src/video/android/SDL_androidvideo.c","src/video/android/SDL_androidmouse.c","src/video/android/SDL_androidgl.c","src/video/SDL_blit_copy.c","src/video/SDL_clipboard.c","src/video/SDL_blit_auto.c","src/video/SDL_rect.c","src/video/SDL_shape.c","src/video/SDL_surface.c","src/loadso/dlopen/SDL_sysloadso.c","src/dynapi/SDL_dynapi.c","src/SDL_error.c","src/SDL_assert.c","src/stdlib/SDL_stdlib.c","src/stdlib/SDL_malloc.c","src/stdlib/SDL_string.c","src/stdlib/SDL_getenv.c","src/stdlib/SDL_iconv.c","src/stdlib/SDL_qsort.c","src/SDL.c","src/power/android/SDL_syspower.c","src/power/SDL_power.c","src/atomic/SDL_spinlock.c","src/atomic/SDL_atomic.c","src/joystick/SDL_gamecontroller.c","src/joystick/SDL_joystick.c","src/joystick/android/SDL_sysjoystick.c","src/filesystem/android/SDL_sysfilesystem.c","src/SDL_log.c","src/SDL_hints.c","src/libm/s_sin.c","src/libm/s_cos.c","src/libm/s_copysign.c","src/libm/s_fabs.c","src/libm/k_rem_pio2.c","src/libm/k_sin.c","src/libm/s_atan.c","src/libm/k_cos.c","src/libm/s_scalbn.c","src/libm/e_pow.c","src/libm/e_atan2.c","src/libm/s_tan.c","src/libm/e_rem_pio2.c","src/libm/e_log.c","src/libm/e_sqrt.c","src/libm/s_floor.c","src/libm/k_tan.c"]}],"fullName":"libSDL2.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-lGLESv1_CM -lGLESv2 -landroid -llog -latomic -lm","linkerLanguage":"C","name":"SDL2","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libmain-lib.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/app/.cxx/cmake/all_in_oneDebug/x86","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["main_lib_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"}],"isGenerated":false,"language":"C","sources":["src/SDL_android_main.c"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -std=c++1z","defines":["main_lib_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"}],"isGenerated":false,"language":"CXX","sources":["src/main.cpp"]}],"fullName":"libmain-lib.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_image.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_gfx.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_mixer.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_ttf.so -llog C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_png.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_jpeg.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libfreetype.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"CXX","name":"main-lib","sourceDirectory":"C:/Users/DELL/Desktop/test2/main","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2","name":"SDL2","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2/include"}],"isGenerated":false,"language":"C","sources":["src/render/opengles/SDL_render_gles.c","src/render/opengles2/SDL_shaders_gles2.c","src/render/opengles2/SDL_render_gles2.c","src/render/opengl/SDL_shaders_gl.c","src/render/opengl/SDL_render_gl.c","src/render/SDL_render.c","src/render/software/SDL_blendline.c","src/render/software/SDL_drawline.c","src/render/software/SDL_blendfillrect.c","src/render/software/SDL_blendpoint.c","src/render/software/SDL_rotate.c","src/render/software/SDL_drawpoint.c","src/render/software/SDL_render_sw.c","src/render/SDL_yuv_sw.c","src/render/SDL_d3dmath.c","src/render/psp/SDL_render_psp.c","src/render/SDL_yuv_mmx.c","src/audio/SDL_mixer.c","src/audio/SDL_audiocvt.c","src/audio/SDL_wave.c","src/audio/dummy/SDL_dummyaudio.c","src/audio/SDL_audiodev.c","src/audio/android/SDL_androidaudio.c","src/audio/paudio/SDL_paudio.c","src/audio/SDL_audiotypecvt.c","src/audio/SDL_audio.c","src/core/android/SDL_android.c","src/cpuinfo/SDL_cpuinfo.c","src/file/SDL_rwops.c","src/timer/unix/SDL_systimer.c","src/timer/SDL_timer.c","src/test/SDL_test_assert.c","src/test/SDL_test_crc32.c","src/test/SDL_test_harness.c","src/test/SDL_test_md5.c","src/test/SDL_test_fuzzer.c","src/test/SDL_test_random.c","src/test/SDL_test_log.c","src/test/SDL_test_imagePrimitives.c","src/test/SDL_test_imagePrimitivesBlend.c","src/test/SDL_test_compare.c","src/test/SDL_test_imageFace.c","src/test/SDL_test_imageBlit.c","src/test/SDL_test_common.c","src/test/SDL_test_font.c","src/test/SDL_test_imageBlitBlend.c","src/events/SDL_dropevents.c","src/events/SDL_mouse.c","src/events/SDL_clipboardevents.c","src/events/SDL_windowevents.c","src/events/SDL_keyboard.c","src/events/SDL_gesture.c","src/events/SDL_quit.c","src/events/SDL_events.c","src/events/SDL_touch.c","src/thread/SDL_thread.c","src/thread/pthread/SDL_syscond.c","src/thread/pthread/SDL_systhread.c","src/thread/pthread/SDL_sysmutex.c","src/thread/pthread/SDL_syssem.c","src/thread/pthread/SDL_systls.c","src/haptic/SDL_haptic.c","src/haptic/dummy/SDL_syshaptic.c","src/video/SDL_video.c","src/video/SDL_blit_0.c","src/video/SDL_bmp.c","src/video/SDL_blit_slow.c","src/video/SDL_egl.c","src/video/SDL_blit_1.c","src/video/SDL_blit.c","src/video/SDL_RLEaccel.c","src/video/SDL_stretch.c","src/video/SDL_blit_A.c","src/video/SDL_pixels.c","src/video/SDL_blit_N.c","src/video/SDL_fillrect.c","src/video/android/SDL_androidevents.c","src/video/android/SDL_androidtouch.c","src/video/android/SDL_androidwindow.c","src/video/android/SDL_androidmessagebox.c","src/video/android/SDL_androidclipboard.c","src/video/android/SDL_androidkeyboard.c","src/video/android/SDL_androidvideo.c","src/video/android/SDL_androidmouse.c","src/video/android/SDL_androidgl.c","src/video/SDL_blit_copy.c","src/video/SDL_clipboard.c","src/video/SDL_blit_auto.c","src/video/SDL_rect.c","src/video/SDL_shape.c","src/video/SDL_surface.c","src/loadso/dlopen/SDL_sysloadso.c","src/dynapi/SDL_dynapi.c","src/SDL_error.c","src/SDL_assert.c","src/stdlib/SDL_stdlib.c","src/stdlib/SDL_malloc.c","src/stdlib/SDL_string.c","src/stdlib/SDL_getenv.c","src/stdlib/SDL_iconv.c","src/stdlib/SDL_qsort.c","src/SDL.c","src/power/android/SDL_syspower.c","src/power/SDL_power.c","src/atomic/SDL_spinlock.c","src/atomic/SDL_atomic.c","src/joystick/SDL_gamecontroller.c","src/joystick/SDL_joystick.c","src/joystick/android/SDL_sysjoystick.c","src/filesystem/android/SDL_sysfilesystem.c","src/SDL_log.c","src/SDL_hints.c","src/libm/s_sin.c","src/libm/s_cos.c","src/libm/s_copysign.c","src/libm/s_fabs.c","src/libm/k_rem_pio2.c","src/libm/k_sin.c","src/libm/s_atan.c","src/libm/k_cos.c","src/libm/s_scalbn.c","src/libm/e_pow.c","src/libm/e_atan2.c","src/libm/s_tan.c","src/libm/e_rem_pio2.c","src/libm/e_log.c","src/libm/e_sqrt.c","src/libm/s_floor.c","src/libm/k_tan.c"]}],"fullName":"libSDL2.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-lGLESv1_CM -lGLESv2 -landroid -llog -latomic -lm","linkerLanguage":"C","name":"SDL2","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_gfx","name":"SDL2_gfx","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_gfx","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_gfx.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_gfx","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_gfx_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_gfx/include"}],"isGenerated":false,"language":"C","sources":["src/SDL2_framerate.c","src/SDL2_gfxPrimitives.c","src/SDL2_rotozoom.c","src/SDL2_imageFilter.c"]}],"fullName":"libSDL2_gfx.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_gfx","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_gfx","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_image","name":"SDL2_image","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_image","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_jpeg.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_jpeg_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_jpeg/include"}],"isGenerated":false,"language":"C","sources":["src/rdswitch.c","src/jquant1.c","src/rdbmp.c","src/jcmainct.c","src/jcdctmgr.c","src/jcsample.c","src/wrgif.c","src/jdmaster.c","src/jdatadst.c","src/jaricom.c","src/jutils.c","src/rdgif.c","src/jdcolor.c","src/rdppm.c","src/jchuff.c","src/wrppm.c","src/jquant2.c","src/jcmarker.c","src/rdtarga.c","src/rdrle.c","src/jdtrans.c","src/jcmaster.c","src/jfdctfst.c","src/jdapimin.c","src/jccoefct.c","src/jidctfst.c","src/wrbmp.c","src/jddctmgr.c","src/jdmerge.c","src/jdarith.c","src/jidctint.c","src/jdatasrc.c","src/jcomapi.c","src/wrrle.c","src/rdcolmap.c","src/jmemmgr.c","src/jcinit.c","src/wrtarga.c","src/jidctflt.c","src/jmem-android.c","src/jdapistd.c","src/jerror.c","src/jcparam.c","src/jcprepct.c","src/jdsample.c","src/jdhuff.c","src/cdjpeg.c","src/jdpostct.c","src/jdmarker.c","src/jfdctint.c","src/jcarith.c","src/jdcoefct.c","src/jcapimin.c","src/transupp.c","src/jfdctflt.c","src/jccolor.c","src/jdmainct.c","src/jdinput.c","src/wrjpgcom.c","src/jctrans.c","src/jcapistd.c"]}],"fullName":"libSDL2_jpeg.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_jpeg","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_png.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_png_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_png/include"}],"isGenerated":false,"language":"C","sources":["src/pngrio.c","src/pngwtran.c","src/pngwutil.c","src/pngread.c","src/pngtrans.c","src/pngpread.c","src/png.c","src/pngwio.c","src/pngrutil.c","src/pngerror.c","src/pngset.c","src/pngmem.c","src/pngwrite.c","src/pngrtran.c","src/pngget.c"]}],"fullName":"libSDL2_png.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_png","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_image.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_image","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_image_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"}],"isGenerated":false,"language":"C","sources":["src/IMG.c","src/IMG_gif.c","src/IMG_png.c","src/IMG_bmp.c","src/IMG_xxx.c","src/IMG_pcx.c","src/IMG_xv.c","src/IMG_jpg.c","src/IMG_xpm.c","src/IMG_webp.c","src/IMG_tga.c","src/IMG_tif.c","src/showimage.c","src/IMG_xcf.c","src/IMG_pnm.c","src/IMG_lbm.c"]}],"fullName":"libSDL2_image.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_png.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_jpeg.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -llog -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_image","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_image","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","name":"SDL2_jpeg","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_jpeg.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_jpeg_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_jpeg/include"}],"isGenerated":false,"language":"C","sources":["src/rdswitch.c","src/jquant1.c","src/rdbmp.c","src/jcmainct.c","src/jcdctmgr.c","src/jcsample.c","src/wrgif.c","src/jdmaster.c","src/jdatadst.c","src/jaricom.c","src/jutils.c","src/rdgif.c","src/jdcolor.c","src/rdppm.c","src/jchuff.c","src/wrppm.c","src/jquant2.c","src/jcmarker.c","src/rdtarga.c","src/rdrle.c","src/jdtrans.c","src/jcmaster.c","src/jfdctfst.c","src/jdapimin.c","src/jccoefct.c","src/jidctfst.c","src/wrbmp.c","src/jddctmgr.c","src/jdmerge.c","src/jdarith.c","src/jidctint.c","src/jdatasrc.c","src/jcomapi.c","src/wrrle.c","src/rdcolmap.c","src/jmemmgr.c","src/jcinit.c","src/wrtarga.c","src/jidctflt.c","src/jmem-android.c","src/jdapistd.c","src/jerror.c","src/jcparam.c","src/jcprepct.c","src/jdsample.c","src/jdhuff.c","src/cdjpeg.c","src/jdpostct.c","src/jdmarker.c","src/jfdctint.c","src/jcarith.c","src/jdcoefct.c","src/jcapimin.c","src/transupp.c","src/jfdctflt.c","src/jccolor.c","src/jdmainct.c","src/jdinput.c","src/wrjpgcom.c","src/jctrans.c","src/jcapistd.c"]}],"fullName":"libSDL2_jpeg.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_jpeg","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_jpeg","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_mixer","name":"SDL2_mixer","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_mixer","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_mixer.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_mixer","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_mixer_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_mixer/include"}],"isGenerated":false,"language":"C","sources":["src/music_mad.c","src/dynamic_flac.c","src/load_aiff.c","src/load_voc.c","src/dynamic_ogg.c","src/load_mp3.c","src/mixer.c","src/playmus.c","src/music_ogg.c","src/music_cmd.c","src/music_mod.c","src/load_flac.c","src/dynamic_fluidsynth.c","src/fluidsynth.c","src/effect_stereoreverse.c","src/music.c","src/dynamic_mod.c","src/effects_internal.c","src/dynamic_modplug.c","src/dynamic_mp3.c","src/load_ogg.c","src/wavestream.c","src/effect_position.c","src/music_modplug.c","src/music_flac.c"]}],"fullName":"libSDL2_mixer.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_mixer","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_mixer","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","name":"SDL2_png","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_png.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","LOAD_JPG","LOAD_PNG","LOAD_XPM","SDL2_png_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_png/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_image/../SDL2_jpeg/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_png/include"}],"isGenerated":false,"language":"C","sources":["src/pngrio.c","src/pngwtran.c","src/pngwutil.c","src/pngread.c","src/pngtrans.c","src/pngpread.c","src/png.c","src/pngwio.c","src/pngrutil.c","src/pngerror.c","src/pngset.c","src/pngmem.c","src/pngwrite.c","src/pngrtran.c","src/pngget.c"]}],"fullName":"libSDL2_png.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_png","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_png","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_ttf","name":"SDL2_ttf","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_ttf","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libSDL2_ttf.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/SDL2_ttf","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["GL_GLEXT_PROTOTYPES","SDL2_ttf_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/../freetype/include"}],"isGenerated":false,"language":"C","sources":["src/glfont.c","src/SDL_ttf.c"]}],"fullName":"libSDL2_ttf.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libfreetype.so C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so -lGLESv1_CM -lGLESv2 -landroid -llog -lz -llog -latomic -lm","linkerLanguage":"C","name":"SDL2_ttf","sourceDirectory":"C:/Users/DELL/Desktop/test2/SDL2_ttf","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"},{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libfreetype.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/freetype","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["FT2_BUILD_LIBRARY","FT_CONFIG_CONFIG_H=<ftconfig.h>","FT_CONFIG_MODULES_H=<ftmodule.h>","GL_GLEXT_PROTOTYPES","freetype_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/../freetype/include"},{"path":"C:/Users/DELL/Desktop/test2/freetype/include"}],"isGenerated":false,"language":"C","sources":["src/sfnt/sfobjs.c","src/sfnt/sfntpic.c","src/sfnt/sfdriver.c","src/sfnt/ttmtx.c","src/sfnt/ttload.c","src/sfnt/ttbdf.c","src/sfnt/ttpost.c","src/sfnt/ttcmap.c","src/sfnt/ttkern.c","src/sfnt/ttsbit.c","src/base/md5.c","src/base/ftglyph.c","src/base/ftotval.c","src/base/ftinit.c","src/base/ftbdf.c","src/base/ftgasp.c","src/base/ftsystem.c","src/base/ftstroke.c","src/base/ftapi.c","src/base/ftlcdfil.c","src/base/ftdebug.c","src/base/ftcid.c","src/base/ftfstype.c","src/base/ftxf86.c","src/base/ftbitmap.c","src/base/ftpfr.c","src/base/ftwinfnt.c","src/base/ftgxval.c","src/base/ftpatent.c","src/base/ftbbox.c","src/base/ftbase.c","src/base/ftsynth.c","src/base/fttype1.c","src/base/ftmm.c","src/smooth/ftsmooth.c","src/smooth/ftgrays.c","src/smooth/ftspic.c","src/raster/ftraster.c","src/raster/rastpic.c","src/raster/ftrend1.c","src/bzip2/ftbzip2.c","src/truetype/ttobjs.c","src/truetype/ttgload.c","src/truetype/ttpic.c","src/truetype/ttgxvar.c","src/truetype/ttsubpix.c","src/truetype/ttinterp.c","src/truetype/ttdriver.c","src/truetype/ttpload.c"]}],"fullName":"libfreetype.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"freetype","sourceDirectory":"C:/Users/DELL/Desktop/test2/freetype","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]},{"buildDirectory":"C:/Users/DELL/Desktop/test2/freetype","name":"freetype","sourceDirectory":"C:/Users/DELL/Desktop/test2/freetype","targets":[{"artifacts":["C:/Users/DELL/Desktop/test2/app/build/intermediates/cmake/all_in_oneDebug/obj/x86/libfreetype.so"],"buildDirectory":"C:/Users/DELL/Desktop/test2/freetype","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC  ","defines":["FT2_BUILD_LIBRARY","FT_CONFIG_CONFIG_H=<ftconfig.h>","FT_CONFIG_MODULES_H=<ftmodule.h>","GL_GLEXT_PROTOTYPES","freetype_EXPORTS"],"includePath":[{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2/src"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_image/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_gfx/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_mixer/include"},{"path":"C:/Users/DELL/Desktop/test2/main/../SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/include"},{"path":"C:/Users/DELL/Desktop/test2/SDL2_ttf/../freetype/include"},{"path":"C:/Users/DELL/Desktop/test2/freetype/include"}],"isGenerated":false,"language":"C","sources":["src/sfnt/sfobjs.c","src/sfnt/sfntpic.c","src/sfnt/sfdriver.c","src/sfnt/ttmtx.c","src/sfnt/ttload.c","src/sfnt/ttbdf.c","src/sfnt/ttpost.c","src/sfnt/ttcmap.c","src/sfnt/ttkern.c","src/sfnt/ttsbit.c","src/base/md5.c","src/base/ftglyph.c","src/base/ftotval.c","src/base/ftinit.c","src/base/ftbdf.c","src/base/ftgasp.c","src/base/ftsystem.c","src/base/ftstroke.c","src/base/ftapi.c","src/base/ftlcdfil.c","src/base/ftdebug.c","src/base/ftcid.c","src/base/ftfstype.c","src/base/ftxf86.c","src/base/ftbitmap.c","src/base/ftpfr.c","src/base/ftwinfnt.c","src/base/ftgxval.c","src/base/ftpatent.c","src/base/ftbbox.c","src/base/ftbase.c","src/base/ftsynth.c","src/base/fttype1.c","src/base/ftmm.c","src/smooth/ftsmooth.c","src/smooth/ftgrays.c","src/smooth/ftspic.c","src/raster/ftraster.c","src/raster/rastpic.c","src/raster/ftrend1.c","src/bzip2/ftbzip2.c","src/truetype/ttobjs.c","src/truetype/ttgload.c","src/truetype/ttpic.c","src/truetype/ttgxvar.c","src/truetype/ttsubpix.c","src/truetype/ttinterp.c","src/truetype/ttdriver.c","src/truetype/ttpload.c"]}],"fullName":"libfreetype.so","linkFlags":"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments","linkLibraries":"-lGLESv1_CM -lGLESv2 -landroid -lz -llog -latomic -lm","linkerLanguage":"C","name":"freetype","sourceDirectory":"C:/Users/DELL/Desktop/test2/freetype","sysroot":"C:/Users/DELL/AppData/Local/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot","type":"SHARED_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

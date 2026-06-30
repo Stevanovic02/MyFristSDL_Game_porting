@@ -1,0 +1,53 @@
+name: build-and-release
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  build-creator:
+    name: Build & Release APK
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2.3.4
+      
+      - name: Get current time
+        uses: srfrnk/current-time@master
+        id: current-time
+        with:
+          format: DD-MM-YYYY
+      
+      - name: Updating Build Tools
+        run: sudo apt update && sudo apt upgrade
+      
+      - name: Setup Java Envirionment
+        uses: actions/setup-java@v2.1.0
+        with:
+          distribution: adopt-hotspot
+          java-version: 15
+      
+      - name: Building with Gradle
+        uses: eskatos/gradle-command-action@v1.3.3
+        with:
+          gradle-version: 6.9
+          wrapper-cache-enabled: true
+          dependencies-cache-enabled: true
+          configuration-cache-enabled: true
+          arguments: 'build -x lint'
+      
+      - name: Upload APK Files to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: "Auto Build ${{ steps.current-time.outputs.formattedTime }}"
+#          tag_name: v1.0.2
+          prerelease: true
+          body: |
+            This is an Automatic Release by GitHub Actions.
+            APK marked "unsigned" needs to be signed with test key before installing.
+            This may change in Future.
+          files: |
+            ./app/build/outputs/apk/*/*/*.apk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

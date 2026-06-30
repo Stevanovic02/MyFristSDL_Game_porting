@@ -1,0 +1,84 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DELL\\Desktop\\test2\\freetype\\CMakeLists.txt",
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_image\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_png\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_gfx\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_jpeg\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_mixer\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\SDL2_ttf\\CMakeLists.txt",
+    "C:\\Users\\DELL\\Desktop\\test2\\main\\CMakeLists.txt",
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "SDL2-Debug-x86": {
+      "artifactName": "SDL2",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2.so",
+      "runtimeFiles": []
+    },
+    "SDL2_image-Debug-x86": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_image",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_image.so",
+      "runtimeFiles": []
+    },
+    "SDL2_png-Debug-x86": {
+      "artifactName": "SDL2_png",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_png",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_png.so",
+      "runtimeFiles": []
+    },
+    "SDL2_ttf-Debug-x86": {
+      "artifactName": "SDL2_ttf",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_ttf",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_ttf.so",
+      "runtimeFiles": []
+    },
+    "main-lib-Debug-x86": {
+      "artifactName": "main-lib",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" main-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libmain-lib.so",
+      "runtimeFiles": []
+    },
+    "SDL2_gfx-Debug-x86": {
+      "artifactName": "SDL2_gfx",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_gfx",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_gfx.so",
+      "runtimeFiles": []
+    },
+    "SDL2_mixer-Debug-x86": {
+      "artifactName": "SDL2_mixer",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_mixer",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_mixer.so",
+      "runtimeFiles": []
+    },
+    "freetype-Debug-x86": {
+      "artifactName": "freetype",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" freetype",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libfreetype.so",
+      "runtimeFiles": []
+    },
+    "SDL2_jpeg-Debug-x86": {
+      "artifactName": "SDL2_jpeg",
+      "buildCommand": "C:\\Users\\DELL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\DELL\\Desktop\\test2\\app\\.cxx\\cmake\\all_in_oneDebug\\x86\" SDL2_jpeg",
+      "abi": "x86",
+      "output": "C:\\Users\\DELL\\Desktop\\test2\\app\\build\\intermediates\\cmake\\all_in_oneDebug\\obj\\x86\\libSDL2_jpeg.so",
+      "runtimeFiles": []
+    }
+  }
+}
